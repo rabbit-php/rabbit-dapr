@@ -13,7 +13,7 @@
     "php": ">=8.1.0",
     "rabbit/base": "dev-master",
     "rabbit/httpclient": "dev-master",
-    "nikic/fast-route": "dev-master",
+    "nikic/fast-route": "*",
     "jetbrains/phpstorm-attributes": "^1"
   },
   "autoload": {
